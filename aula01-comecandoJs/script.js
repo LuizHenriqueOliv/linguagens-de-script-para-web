@@ -1,5 +1,5 @@
-const name = 'Luiz';
+const nome = 'Luiz';
 let idade = 18;
 
-alert(`Nome: ${name}`)
+alert(`Nome: ${nome}`)
 alert(`Idade: ${idade}`)
